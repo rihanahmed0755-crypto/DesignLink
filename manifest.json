@@ -8,10 +8,10 @@
   "short_name": "DesignLink",
   "start_url": "/",
   "theme_color": "#ffffff",
-  "icons": [IMG-20260711-WA0003.jpg
+  "icons": [
     {
-      "src": "https://github.com/favicon.ico",
-      "type": "image/x-icon",
+      "src": IMG-20260711-WA0003.jpg
+      "type": "image/jpeg",
       "isSquare": false,
       "isPng": false,
       "isWebp": false,
