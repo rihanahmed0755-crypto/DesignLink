@@ -8,7 +8,7 @@
   "short_name": "DesignLink",
   "start_url": "/",
   "theme_color": "#ffffff",
-  "icons": IMG-20260711-WA0003.jpg
+  "icons": [IMG-20260711-WA0003.jpg
     {
       "src": "https://github.com/favicon.ico",
       "type": "image/x-icon",
